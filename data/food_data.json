@@ -1,0 +1,44 @@
+[
+    {
+      "id": "658d09f7cf9af69bc48901ea",
+      "name": "consequat enim",
+      "price": 36,
+      "category": "pariatur"
+    },
+    {
+      "id": "658d09f732f1dcc88731b232",
+      "name": "mollit commodo",
+      "price": 26,
+      "category": "ullamco"
+    },
+    {
+      "id": "658d09f7dde8aa7f597d0dea",
+      "name": "nulla irure",
+      "price": 39,
+      "category": "pariatur"
+    },
+    {
+      "id": "658d09f73ae787b36c674bf3",
+      "name": "et eu",
+      "price": 21,
+      "category": "deserunt"
+    },
+    {
+      "id": "658d09f73fa88e11055c4a36",
+      "name": "minim aute",
+      "price": 36,
+      "category": "irure"
+    },
+    {
+      "id": "658d09f7140a1a643e313f55",
+      "name": "do labore",
+      "price": 35,
+      "category": "quis"
+    },
+    {
+      "id": "658d09f7fd084ba60c1300de",
+      "name": "dolore officia",
+      "price": 29,
+      "category": "fugiat"
+    }
+  ]
